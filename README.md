@@ -1,7 +1,4 @@
 <h1>Kara</h1>
-![](https://img.shields.io/github/forks/heliebiandexbilibili/Kara?style=social)
-![](https://img.shields.io/github/watchers/heliebiandexbilibili/Kara?style=social )
-![](https://img.shields.io/github/stars/heliebiandexbilibili/Kara?color=green&style=social)<br>
 Kara, a new rand easy-to-learn programming language
 <br>
 <h2>Why Kara?</h2>
