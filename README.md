@@ -1,2 +1,2 @@
 # Kara
-[![](https://img.shields.io/github/issues-pr-closed-raw/sunface/kara.svg?style=flat)]
+[![Stars Count](https://img.shields.io/github/stars/heliebiandexbilibili/kara?style=flat)](https://github.com/heliebiandexbilibili/kara/stargazers)
